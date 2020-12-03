@@ -1,1 +1,1 @@
-# Documentación de la práctica 6 "Herencia" actividad 2 javadocs to GitHub Pages.
+# Documentación de la Práctica N° #7 "Polimorfismo" Javadocs to GitHub Pages.
